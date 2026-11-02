@@ -4,7 +4,7 @@ using OblivionMp.Sdk;
 using OblivionMpCSharpMod.Values;
 using ReadyM.Cef;
 using ReadyM.SDK.Attributes;
-using ReadyM.Sdk.Common.Input;
+using OblivionMpCSharpMod.Input;
 
 namespace OblivionMp.ChatMod;
 
