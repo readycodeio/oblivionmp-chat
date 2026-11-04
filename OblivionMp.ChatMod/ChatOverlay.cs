@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 using OblivionMp.ChatMod.Common;
-using OblivionMp.Sdk;
+using OblivionMP.SDK;
 using OblivionMpCSharpMod.Values;
 using ReadyM.Cef;
 using ReadyM.SDK.Attributes;

@@ -55,5 +55,5 @@ The projects build against the OblivionMP SDK packages from NuGet: `ReadyM.SDK.O
 
 Use `Debug` instead of `Release` to include `.pdb` symbol files.
 
-Copy `Output/mods/OblivionMP.Chat/` into your server's `mods/` directory, next to the `OblivionMp.Sdk` mod,
+Copy `Output/mods/OblivionMP.Chat/` into your server's `mods/` directory, next to the `OblivionMP.SDK` mod,
 and restart the server. Connecting players receive the client half automatically.

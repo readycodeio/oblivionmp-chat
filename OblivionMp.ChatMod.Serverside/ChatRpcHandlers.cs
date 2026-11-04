@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 using OblivionMp.ChatMod.Common;
-using OblivionMp.Sdk.Common.Archetypes.Mixins;
+using OblivionMP.SDK.Common.Archetypes.Mixins;
 using ReadyM.Api.Idents;
 using ReadyM.Relay.Server.Sdk.Rpc;
 using ReadyM.SDK.Archetypes.Core;
