@@ -1,13 +1,13 @@
 {
   "uniqueId": "OblivionMP.Chat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Server chat",
   "author": "ReadyM Team",
   "description": "Server-authoritative text chat with a web UI.",
   "dependencies": [
     {
         "uniqueId": "OblivionMP.SDK",
-        "minimumVersion": "1.0.0"
+        "minimumVersion": "1.1.0"
     }
   ]
 }

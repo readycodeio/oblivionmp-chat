@@ -1,5 +1,8 @@
 <Project>
 
+    <!-- Build settings from the folder above, when it has any -->
+    <Import Project="$(MSBuildThisFileDirectory)..\Directory.Build.targets" Condition="Exists('$(MSBuildThisFileDirectory)..\Directory.Build.targets')" />
+
     <!--
         The two chat packages each carry OblivionMp.ChatMod.Common.dll alongside their own assembly, rather than
         depending on a third package for it. A mod references only the half it is building, and the shared chat
